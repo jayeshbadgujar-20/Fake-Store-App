@@ -29,12 +29,6 @@ This is a modern and responsive e-commerce web application built with **React**,
 
 ---
 
-## Deployment
-
-This project is live and accessible at:
-
-👉 [**Live Demo**](https://your-live-app-link.vercel.app)
----
 
 
 ## 🛠️ Tech Stack

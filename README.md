@@ -53,7 +53,7 @@ This project is live and accessible at:
 
 This project is live and accessible at:
 
-👉 [**Live Demo**](https://your-live-app-link.vercel.app)
+👉 [**Live Demo**](https://fake-store-app-jb.vercel.app/)
 
 ## 📦 Installation & Setup
 
